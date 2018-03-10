@@ -1,0 +1,22 @@
+{
+  "name": "jlast",
+  "version": "1.0.0",
+  "description": "json file io",
+  "main": "lib/jlast.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrvieira/jlast.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "jrvieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrvieira/jlast/issues"
+  },
+  "homepage": "https://github.com/jrvieira/jlast#readme"
+}
